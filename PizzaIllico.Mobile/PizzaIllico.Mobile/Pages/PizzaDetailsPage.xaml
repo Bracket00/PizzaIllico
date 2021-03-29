@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewModels="clr-namespace:PizzaIllico.Mobile.ViewModels;assembly=PizzaIllico.Mobile"
+             x:DataType="viewModels:PizzaDetailsViewModel"
+             x:Class="PizzaIllico.Mobile.Pages.PizzaDetailsPage"
+             Title="{Binding Name}">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Icon="home.png" Text="Home" Command="{Binding HomeCommand}" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout Margin="10,0,10,0">
+            <Image
+                        Source="{Binding UrlImage}"
+                        HorizontalOptions="Center"
+                        VerticalOptions="CenterAndExpand"/>
+            <Label Text="{Binding Description}" FontSize="15"/>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Label Text="{Binding Price}" FontSize="20" />
+                <Label Text="€"/>
+            </StackLayout>
+            
+            <Button Text="I want it !"
+                BackgroundColor="#2196F3"
+                Margin="30, 20, 30, 10"
+                TextColor="White"
+                Command="{Binding MakeAnOrderCommand}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,33 @@
+C:\Users\User\Desktop\Cours-Xamarin-cours-2021 (2)\Cours-Xamarin-cours-2021\td\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\bin\Debug\netstandard2.0\PizzaIllico.Mobile.deps.json
+C:\Users\User\Desktop\Cours-Xamarin-cours-2021 (2)\Cours-Xamarin-cours-2021\td\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\bin\Debug\netstandard2.0\PizzaIllico.Mobile.dll
+C:\Users\User\Desktop\Cours-Xamarin-cours-2021 (2)\Cours-Xamarin-cours-2021\td\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\bin\Debug\netstandard2.0\PizzaIllico.Mobile.pdb
+C:\Users\User\Desktop\Cours-Xamarin-cours-2021 (2)\Cours-Xamarin-cours-2021\td\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\PizzaIllico.Mobile.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Cours-Xamarin-cours-2021 (2)\Cours-Xamarin-cours-2021\td\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\Cours-Xamarin-cours-2021 (2)\Cours-Xamarin-cours-2021\td\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\Pages\ShopListPage.xaml.g.cs
+C:\Users\User\Desktop\Cours-Xamarin-cours-2021 (2)\Cours-Xamarin-cours-2021\td\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\PizzaIllico.Mobile.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cours-Xamarin-cours-2021 (2)\Cours-Xamarin-cours-2021\td\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\PizzaIllico.Mobile.AssemblyInfo.cs
+C:\Users\User\Desktop\Cours-Xamarin-cours-2021 (2)\Cours-Xamarin-cours-2021\td\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\PizzaIllico.Mobile.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cours-Xamarin-cours-2021 (2)\Cours-Xamarin-cours-2021\td\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\Cours-Xamarin-cours-2021 (2)\Cours-Xamarin-cours-2021\td\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\PizzaIllico.Mobile.dll
+C:\Users\User\Desktop\Cours-Xamarin-cours-2021 (2)\Cours-Xamarin-cours-2021\td\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\PizzaIllico.Mobile.pdb
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\PizzaIllico.Mobile.csprojAssemblyReference.cache
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\Pages\HomePage.xaml.g.cs
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\Pages\ShopListPage.xaml.g.cs
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\PizzaIllico.Mobile.AssemblyInfoInputs.cache
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\PizzaIllico.Mobile.AssemblyInfo.cs
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\PizzaIllico.Mobile.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\PizzaIllico.Mobile.dll
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\PizzaIllico.Mobile.pdb
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\bin\Debug\netstandard2.0\PizzaIllico.Mobile.deps.json
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\bin\Debug\netstandard2.0\PizzaIllico.Mobile.dll
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\bin\Debug\netstandard2.0\PizzaIllico.Mobile.pdb
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\Pages\LoginPage.xaml.g.cs
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\Pages\RegisterPage.xaml.g.cs
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\Pages\EditProfilePage.xaml.g.cs
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\Pages\ShopDetailsPage.xaml.g.cs
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\Pages\PizzaDetailsPage.xaml.g.cs
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\Pages\MyCartPage.xaml.g.cs
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\Pages\Maps.xaml.g.cs
+C:\Users\User\Documents\PizzaIllico.Mobile\PizzaIllico.Mobile\PizzaIllico.Mobile\obj\Debug\netstandard2.0\Pages\OrdersPage.xaml.g.cs

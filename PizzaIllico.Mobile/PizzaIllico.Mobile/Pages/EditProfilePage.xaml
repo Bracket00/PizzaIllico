@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PizzaIllico.Mobile.Pages.EditProfilePage"
+             Title="Edit profile">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Icon="home.png" Text="Home" Command="{Binding HomeCommand}" />
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical" Margin="10,0,10,0">
+
+            <Entry Text="{Binding Name}" Placeholder="Name"/>
+
+            <Entry Text="{Binding Firstname}" Placeholder="Firstname"/>
+
+            <Entry Text="{Binding Phone}" Placeholder="Phone"/>
+
+            <Button Command="{Binding EditProfileCommand}" Text="Save change !" BackgroundColor="#2196F3"/>
+
+
+            <Entry Text="{Binding OldPassword}" Placeholder="Old password" IsPassword="True"/>
+
+            <Entry Text="{Binding NewPassword}" Placeholder="New password" IsPassword="True"/>
+
+            <Button Command="{Binding ModifyPasswordCommand}" Text="Save change" BackgroundColor="#2196F3"/>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

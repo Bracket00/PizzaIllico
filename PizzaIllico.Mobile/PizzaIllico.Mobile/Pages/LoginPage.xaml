@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:viewmodels="clr-namespace:PizzaIllico.Mobile.ViewModels" 
+             x:DataType="viewmodels:LoginPageViewModel"
+             x:Class="PizzaIllico.Mobile.Pages.LoginPage"
+             >
+    <NavigationPage.TitleView>
+        <Label Text="{Binding Mail}" HorizontalTextAlignment="Start" TextColor="White" FontSize="24"></Label>
+    </NavigationPage.TitleView>
+
+    <ContentPage.Content>
+
+        <StackLayout>
+            <StackLayout Margin="10,0,10,0">
+
+                <Button Text="View Map"
+                BackgroundColor="#2196F3"
+                Margin="30, 20, 30, 10"
+                TextColor="White"
+                Command="{Binding MapCommand}"/>
+
+                <Button Text="View all restaurants"
+                BackgroundColor="#2196F3"
+                Margin="30, 10, 30, 10"
+                TextColor="White"
+                Command="{Binding ListRestaurantsCommand}"/>
+
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Button Text="My cart"
+                        Grid.Row="0"
+                        Grid.Column="0"
+                        BackgroundColor="#2196F3"
+                        Margin="30, 10, 30, 10"
+                        TextColor="White"
+                        Command="{Binding MyCartCommand}"
+                        HorizontalOptions="FillAndExpand"
+                        VerticalOptions="FillAndExpand"/>
+
+                    <BoxView Color="Red"
+                         IsVisible="{Binding Visible}"
+                         Grid.Row="0"
+                         Grid.Column="0"
+                         Margin="30, 0, 20, 10"
+                         CornerRadius="180"
+                         WidthRequest="25"
+                         HeightRequest="25"
+                         HorizontalOptions="End"
+                         VerticalOptions="Start"/>
+                    <Label TextColor="White"
+                         IsVisible="{Binding Visible}"
+                         Text="{Binding NumberOfPizza}"
+                         FontSize="15"
+                         Grid.Row="0"
+                         Grid.Column="0"
+                         Margin="30, 2, 12, 10"
+                         WidthRequest="25"
+                         HeightRequest="25"
+                         HorizontalOptions="End"
+                         VerticalOptions="Start"/>
+                </Grid>
+
+                 
+
+                <Button Text="View all my commands"
+                BackgroundColor="#2196F3"
+                Margin="30, 10, 30, 10"
+                TextColor="White"
+                Command="{Binding MyOrdersCommand}"/>
+
+                <Button Text="Edit profil"
+                BackgroundColor="#2196F3"
+                Margin="30, 10, 30, 10"
+                TextColor="White"
+                Command="{Binding EditProfileCommand}"/>
+                
+                
+
+            </StackLayout>
+            
+            
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:forms="clr-namespace:Storm.Mvvm.Forms;assembly=Storm.Mvvm.Forms"
+             x:Class="PizzaIllico.Mobile.Pages.RegisterPage">
+    <NavigationPage.TitleView>
+        <Label Text="Register" HorizontalTextAlignment="Start" TextColor="White" FontSize="24"></Label>
+    </NavigationPage.TitleView>
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical" Margin="10,0,10,0">
+
+            <Entry Text="{Binding Name}" Placeholder="Name"/>
+
+            <Entry Text="{Binding Firstname}" Placeholder="Firstname"/>
+
+            <Entry Text="{Binding Mail}" Placeholder="Mail"/>
+
+            <Entry Text="{Binding Phone}" Placeholder="Phone"/>
+
+            <Entry Text="{Binding Password}" Placeholder="Password" IsPassword="True"/>
+
+            <Entry Text="{Binding ConfirmedPassword}" Placeholder="Confirm password" IsPassword="True"/>
+
+
+            <Button Command="{Binding RegisterCommand}" Text="Register now !" BackgroundColor="#2196F3"/>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
